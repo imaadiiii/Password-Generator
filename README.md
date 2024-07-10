@@ -1,6 +1,6 @@
 # Password Generator
 
-My Project Deployed Link - https://password-generator-psi-ebon.vercel.app/
+[View Live Application Here](https://password-generator-psi-ebon.vercel.app/)
 
 ## Overview
 
@@ -63,7 +63,9 @@ You need a modern web browser that supports HTML5, CSS3, and JavaScript.
 
 ## Screenshots
 
-(Include screenshots of your application here)
+![Screenshot 1](SS1.png)
+![Screenshot 2](SS2.png)
+![Screenshot 3](SS3.png)
 
 ## Contributing
 
@@ -72,4 +74,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
