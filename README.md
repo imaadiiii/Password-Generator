@@ -1,5 +1,7 @@
 # Password Generator
 
+My Project Deployed Link - https://password-generator-psi-ebon.vercel.app/
+
 ## Overview
 
 This password generator allows users to create secure, random passwords based on selected criteria. The web application is built with HTML, Tailwind CSS for styling, and JavaScript for functionality. It's designed to be simple yet effective, providing users with the ability to customize their password's complexity through options such as length, inclusion of uppercase and lowercase letters, numbers, and special symbols.
